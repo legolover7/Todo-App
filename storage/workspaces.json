@@ -1,0 +1,84 @@
+{
+    "Your Workspace": [
+        {
+            "title": "My Tasks",
+            "lists": [
+                {
+                    "title": "Household chores",
+                    "tasks": [
+                        {
+                            "title": "Do the dishes",
+                            "desc": ""
+                        },
+                        {
+                            "title": "Vacuum",
+                            "desc": "Living room, master bedroom, kids room, foyer, and hallway"
+                        },
+                        {
+                            "title": "Clean the kitchen",
+                            "desc": "Sweep the kitchen and clean the counters"
+                        },
+                        {
+                            "title": "Clean the windows",
+                            "desc": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Run errands",
+                    "tasks": [
+                        {
+                            "title": "Stores",
+                            "desc": "Walmart, Aldi, Great Clips"
+                        },
+                        {
+                            "title": "Grocery list",
+                            "desc": "Hamburger and hotdog buns, ketchup, ground beef, carrots, corn, green beans, french fries"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Work Project",
+            "lists": [
+                {
+                    "title": "A list 1",
+                    "tasks": [
+                        {
+                            "title": "A task 1",
+                            "desc": "Description"
+                        },
+                        {
+                            "title": "A task 2",
+                            "desc": "Description"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Game Development",
+            "lists": [
+                {
+                    "title": "Magic List 1",
+                    "tasks": [
+                        {
+                            "title": "Magic task 1",
+                            "desc": "Descriptionary aw yeah"
+                        }
+                    ]
+                },
+                {
+                    "title": "Magic List 2",
+                    "tasks": [
+                        {
+                            "title": "Magic task 2",
+                            "desc": "Descriptionary"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
